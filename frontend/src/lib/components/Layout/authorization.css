@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .notice-block {
+    @apply absolute z-10 right-0
+  }
+  .auth-form {
+    @apply text-center justify-center mt-[10rem] relative;
+  }
+  .input-form input {
+    @apply m-0 border-[0px] text-black outline-none font-medium w-[410px] bg-transparent p-4;
+  }
+  .input-form {
+    @apply text-base flex rounded duration-[0.5s] text-black my-4 mx-[auto] border-solid border-2 border-gray-300 text-left min-w-[500px] w-[500px] pl-4 items-center;
+  }
+  .auth-form button {
+    @apply font-black text-lg tracking-[1px] inline-block py-[10px] px-[40px] rounded duration-[0.3s] mt-5 border-2 text-black border-solid border-gray-300 bg-transparent cursor-pointer hover:text-white hover:bg-[#1F2937];
+  }
+  .auth-form a {
+    @apply text-gray-400 block mt-4 duration-[0.3s] hover:text-black;
+  }
+  .btn {
+    @apply w-[200px] m-4;
+  }
+}
