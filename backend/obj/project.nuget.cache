@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "1A8Nu0wPosh6kkHjZNrDM3BKvEZM4C+OS6BmGqxgZKHXJJ/CzRh163jeTsXnlRMxSjLv1c23nl30lk41AWJPdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anton\\source\\repos\\GraphqlTask\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\graphql\\7.4.0\\graphql.7.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql-parser\\8.1.0\\graphql-parser.8.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.microsoftdi\\7.4.0\\graphql.microsoftdi.7.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.server.transports.aspnetcore\\7.4.0\\graphql.server.transports.aspnetcore.7.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.server.ui.playground\\7.4.0\\graphql.server.ui.playground.7.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.systemtextjson\\7.4.0\\graphql.systemtextjson.7.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
