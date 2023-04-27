@@ -1,10 +1,9 @@
 <script>
-    import Counter from "./lib/Counter.svelte";
+    import Main from "./lib/Main.svelte";
 </script>
 
 <main>
-    <p class="">Vite + Svelte</p>
-    <Counter/>
+    <Main/>
 </main>
 
 <style global>
